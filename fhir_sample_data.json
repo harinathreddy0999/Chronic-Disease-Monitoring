@@ -1,0 +1,4962 @@
+{
+  "patients": [
+    {
+      "resourceType": "Patient",
+      "id": "patient-1",
+      "name": [
+        {
+          "family": "Harris",
+          "given": [
+            "Michelle"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1952-04-14",
+      "address": [
+        {
+          "line": [
+            "9994 Andrade Views"
+          ],
+          "city": "Roachstad",
+          "state": "CA",
+          "postalCode": "63881"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-2",
+      "name": [
+        {
+          "family": "Tyler",
+          "given": [
+            "Michael"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1956-12-30",
+      "address": [
+        {
+          "line": [
+            "11470 Anthony Springs Apt. 304"
+          ],
+          "city": "Michaelaburgh",
+          "state": "NM",
+          "postalCode": "51286"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-3",
+      "name": [
+        {
+          "family": "Christensen",
+          "given": [
+            "Curtis"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "2004-02-09",
+      "address": [
+        {
+          "line": [
+            "878 Solis Ports"
+          ],
+          "city": "Troyport",
+          "state": "NV",
+          "postalCode": "41361"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-4",
+      "name": [
+        {
+          "family": "Cannon",
+          "given": [
+            "Tammy"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1999-08-02",
+      "address": [
+        {
+          "line": [
+            "0984 Williams Mountain"
+          ],
+          "city": "Lake Carrietown",
+          "state": "PA",
+          "postalCode": "16277"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-5",
+      "name": [
+        {
+          "family": "Cooper",
+          "given": [
+            "Stacy"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1953-11-17",
+      "address": [
+        {
+          "line": [
+            "5504 Melendez Trail Apt. 705"
+          ],
+          "city": "Annfort",
+          "state": "WY",
+          "postalCode": "52351"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-6",
+      "name": [
+        {
+          "family": "Moore",
+          "given": [
+            "John"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1942-02-25",
+      "address": [
+        {
+          "line": [
+            "934 Chelsea Mountains Suite 497"
+          ],
+          "city": "Brownton",
+          "state": "AZ",
+          "postalCode": "63155"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-7",
+      "name": [
+        {
+          "family": "Chang",
+          "given": [
+            "Heather"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1997-02-21",
+      "address": [
+        {
+          "line": [
+            "9539 Jacob Overpass Apt. 243"
+          ],
+          "city": "Bakerburgh",
+          "state": "IL",
+          "postalCode": "94206"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-8",
+      "name": [
+        {
+          "family": "Atkinson",
+          "given": [
+            "Barbara"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1983-04-16",
+      "address": [
+        {
+          "line": [
+            "7378 Hurst Rue Apt. 107"
+          ],
+          "city": "South Robertland",
+          "state": "WV",
+          "postalCode": "34131"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-9",
+      "name": [
+        {
+          "family": "Hood",
+          "given": [
+            "Kristy"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1949-06-15",
+      "address": [
+        {
+          "line": [
+            "49067 Shari Bypass"
+          ],
+          "city": "Port Stephen",
+          "state": "MN",
+          "postalCode": "57704"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-10",
+      "name": [
+        {
+          "family": "Burnett",
+          "given": [
+            "Jaime"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1953-08-03",
+      "address": [
+        {
+          "line": [
+            "25053 James Forks"
+          ],
+          "city": "Lake Davidland",
+          "state": "PA",
+          "postalCode": "27382"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-11",
+      "name": [
+        {
+          "family": "Lewis",
+          "given": [
+            "Timothy"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1935-04-26",
+      "address": [
+        {
+          "line": [
+            "7955 Johnson Club"
+          ],
+          "city": "Johnsonberg",
+          "state": "WY",
+          "postalCode": "32100"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-12",
+      "name": [
+        {
+          "family": "Leon",
+          "given": [
+            "Hailey"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1964-06-09",
+      "address": [
+        {
+          "line": [
+            "2953 White Meadows Apt. 704"
+          ],
+          "city": "South Joshua",
+          "state": "SC",
+          "postalCode": "58314"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-13",
+      "name": [
+        {
+          "family": "Jenkins",
+          "given": [
+            "Debra"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1956-06-12",
+      "address": [
+        {
+          "line": [
+            "60750 Brandy Mills"
+          ],
+          "city": "New Jeremy",
+          "state": "AL",
+          "postalCode": "76044"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-14",
+      "name": [
+        {
+          "family": "Bartlett",
+          "given": [
+            "Deborah"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "2005-11-19",
+      "address": [
+        {
+          "line": [
+            "8887 Lance Village Suite 912"
+          ],
+          "city": "Meyersfurt",
+          "state": "FL",
+          "postalCode": "02306"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-15",
+      "name": [
+        {
+          "family": "Griffith",
+          "given": [
+            "Marcus"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "2006-01-13",
+      "address": [
+        {
+          "line": [
+            "2665 Brandy Stravenue"
+          ],
+          "city": "New Joy",
+          "state": "IA",
+          "postalCode": "22040"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-16",
+      "name": [
+        {
+          "family": "Brooks",
+          "given": [
+            "Leah"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1986-02-12",
+      "address": [
+        {
+          "line": [
+            "88588 Hines Road"
+          ],
+          "city": "Johnburgh",
+          "state": "VA",
+          "postalCode": "19705"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-17",
+      "name": [
+        {
+          "family": "Rivas",
+          "given": [
+            "Stephanie"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1939-09-25",
+      "address": [
+        {
+          "line": [
+            "9840 Kim Squares Apt. 700"
+          ],
+          "city": "Mckinneyburgh",
+          "state": "OR",
+          "postalCode": "17009"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-18",
+      "name": [
+        {
+          "family": "Blair",
+          "given": [
+            "Matthew"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1982-07-04",
+      "address": [
+        {
+          "line": [
+            "698 Kyle Falls"
+          ],
+          "city": "New Rachel",
+          "state": "AK",
+          "postalCode": "72083"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-19",
+      "name": [
+        {
+          "family": "Hoffman",
+          "given": [
+            "Martin"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1978-09-08",
+      "address": [
+        {
+          "line": [
+            "9255 Rodriguez Branch"
+          ],
+          "city": "Ayalaview",
+          "state": "NH",
+          "postalCode": "58555"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-20",
+      "name": [
+        {
+          "family": "Williams",
+          "given": [
+            "Antonio"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1984-12-18",
+      "address": [
+        {
+          "line": [
+            "673 Munoz Knoll Suite 192"
+          ],
+          "city": "Josephton",
+          "state": "MN",
+          "postalCode": "60243"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-21",
+      "name": [
+        {
+          "family": "Schwartz",
+          "given": [
+            "Tina"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1950-10-11",
+      "address": [
+        {
+          "line": [
+            "6233 John Mountain Suite 928"
+          ],
+          "city": "New Clintonside",
+          "state": "MS",
+          "postalCode": "54027"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-22",
+      "name": [
+        {
+          "family": "Farley",
+          "given": [
+            "Jeremy"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1995-02-23",
+      "address": [
+        {
+          "line": [
+            "09454 Mitchell Mall Suite 993"
+          ],
+          "city": "Fieldschester",
+          "state": "OK",
+          "postalCode": "42953"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-23",
+      "name": [
+        {
+          "family": "Becker",
+          "given": [
+            "Theresa"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1990-07-28",
+      "address": [
+        {
+          "line": [
+            "2270 Alexandria Radial"
+          ],
+          "city": "New Jenniferbury",
+          "state": "PA",
+          "postalCode": "21588"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-24",
+      "name": [
+        {
+          "family": "Johnson",
+          "given": [
+            "Karen"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1958-11-13",
+      "address": [
+        {
+          "line": [
+            "169 Christina Brooks"
+          ],
+          "city": "Lynchville",
+          "state": "FL",
+          "postalCode": "34435"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-25",
+      "name": [
+        {
+          "family": "Mejia",
+          "given": [
+            "Matthew"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1994-05-28",
+      "address": [
+        {
+          "line": [
+            "36818 Scott Shoals"
+          ],
+          "city": "Martinezland",
+          "state": "SC",
+          "postalCode": "74192"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-26",
+      "name": [
+        {
+          "family": "Johnson",
+          "given": [
+            "Brandon"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1991-01-10",
+      "address": [
+        {
+          "line": [
+            "53083 Maldonado Via Apt. 305"
+          ],
+          "city": "East James",
+          "state": "AZ",
+          "postalCode": "31753"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-27",
+      "name": [
+        {
+          "family": "Jennings",
+          "given": [
+            "George"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1941-06-07",
+      "address": [
+        {
+          "line": [
+            "1296 English Groves Apt. 193"
+          ],
+          "city": "Francoville",
+          "state": "NE",
+          "postalCode": "76259"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-28",
+      "name": [
+        {
+          "family": "Williams",
+          "given": [
+            "Michael"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1999-06-30",
+      "address": [
+        {
+          "line": [
+            "347 Hull Rest"
+          ],
+          "city": "East Melanie",
+          "state": "NM",
+          "postalCode": "44915"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-29",
+      "name": [
+        {
+          "family": "Torres",
+          "given": [
+            "Brianna"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1996-02-04",
+      "address": [
+        {
+          "line": [
+            "5305 Tara Station"
+          ],
+          "city": "South Matthewborough",
+          "state": "AK",
+          "postalCode": "57395"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-30",
+      "name": [
+        {
+          "family": "Lopez",
+          "given": [
+            "Michael"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1983-07-17",
+      "address": [
+        {
+          "line": [
+            "41684 Wells Lakes Apt. 255"
+          ],
+          "city": "Thomasfort",
+          "state": "DE",
+          "postalCode": "57704"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-31",
+      "name": [
+        {
+          "family": "Mcpherson",
+          "given": [
+            "Jerry"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1960-04-07",
+      "address": [
+        {
+          "line": [
+            "217 Horne Spring Suite 531"
+          ],
+          "city": "East Michaelland",
+          "state": "CA",
+          "postalCode": "47255"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-32",
+      "name": [
+        {
+          "family": "Powell",
+          "given": [
+            "Victoria"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1987-08-16",
+      "address": [
+        {
+          "line": [
+            "042 Thompson Trail"
+          ],
+          "city": "Zacharyfurt",
+          "state": "MO",
+          "postalCode": "52121"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-33",
+      "name": [
+        {
+          "family": "Reid",
+          "given": [
+            "Kristy"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1939-06-05",
+      "address": [
+        {
+          "line": [
+            "6998 Dalton Branch"
+          ],
+          "city": "Walkerland",
+          "state": "NV",
+          "postalCode": "75200"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-34",
+      "name": [
+        {
+          "family": "Chavez",
+          "given": [
+            "Jose"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "2005-07-19",
+      "address": [
+        {
+          "line": [
+            "636 Michael Mill"
+          ],
+          "city": "West Samuel",
+          "state": "WV",
+          "postalCode": "07756"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-35",
+      "name": [
+        {
+          "family": "Dunlap",
+          "given": [
+            "Nicholas"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1984-08-01",
+      "address": [
+        {
+          "line": [
+            "3260 Smith Harbors Suite 318"
+          ],
+          "city": "Youngport",
+          "state": "ID",
+          "postalCode": "75034"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-36",
+      "name": [
+        {
+          "family": "Bowman",
+          "given": [
+            "Michael"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1994-10-05",
+      "address": [
+        {
+          "line": [
+            "4025 Roger Mountain"
+          ],
+          "city": "Alexisbury",
+          "state": "CT",
+          "postalCode": "52832"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-37",
+      "name": [
+        {
+          "family": "Randall",
+          "given": [
+            "Adrian"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1998-08-10",
+      "address": [
+        {
+          "line": [
+            "66984 Monique Court Suite 901"
+          ],
+          "city": "Port Charlesburgh",
+          "state": "PA",
+          "postalCode": "60273"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-38",
+      "name": [
+        {
+          "family": "Silva",
+          "given": [
+            "Richard"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1948-04-25",
+      "address": [
+        {
+          "line": [
+            "824 Delgado Course"
+          ],
+          "city": "Charlesstad",
+          "state": "LA",
+          "postalCode": "69525"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-39",
+      "name": [
+        {
+          "family": "Underwood",
+          "given": [
+            "Christopher"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1944-03-08",
+      "address": [
+        {
+          "line": [
+            "19975 Hudson Gateway"
+          ],
+          "city": "Charlesland",
+          "state": "MN",
+          "postalCode": "88216"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-40",
+      "name": [
+        {
+          "family": "Peterson",
+          "given": [
+            "Kimberly"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1987-10-10",
+      "address": [
+        {
+          "line": [
+            "77361 Baker Terrace"
+          ],
+          "city": "Jeffreymouth",
+          "state": "AZ",
+          "postalCode": "57571"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-41",
+      "name": [
+        {
+          "family": "Campbell",
+          "given": [
+            "Cindy"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1997-07-25",
+      "address": [
+        {
+          "line": [
+            "9561 Williams Extension Suite 845"
+          ],
+          "city": "Grayburgh",
+          "state": "NE",
+          "postalCode": "35159"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-42",
+      "name": [
+        {
+          "family": "Blake",
+          "given": [
+            "Lindsey"
+          ]
+        }
+      ],
+      "gender": "female",
+      "birthDate": "1984-04-12",
+      "address": [
+        {
+          "line": [
+            "142 Melendez Streets"
+          ],
+          "city": "West April",
+          "state": "WI",
+          "postalCode": "61647"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-43",
+      "name": [
+        {
+          "family": "Choi",
+          "given": [
+            "Danielle"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1962-07-08",
+      "address": [
+        {
+          "line": [
+            "3222 Browning Center Suite 733"
+          ],
+          "city": "Lake Derrick",
+          "state": "OR",
+          "postalCode": "55697"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-44",
+      "name": [
+        {
+          "family": "Jones",
+          "given": [
+            "Nancy"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "1943-07-28",
+      "address": [
+        {
+          "line": [
+            "649 Garcia Keys Apt. 886"
+          ],
+          "city": "Port Evelyn",
+          "state": "NV",
+          "postalCode": "98904"
+        }
+      ]
+    },
+    {
+      "resourceType": "Patient",
+      "id": "patient-45",
+      "name": [
+        {
+          "family": "Macdonald",
+          "given": [
+            "David"
+          ]
+        }
+      ],
+      "gender": "male",
+      "birthDate": "2005-09-02",
+      "address": [
+        {
+          "line": [
+            "3801 White Course Apt. 517"
+          ],
+          "city": "Gracebury",
+          "state": "OR",
+          "postalCode": "38984"
+        }
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-1",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Atorvastatin 20mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-1"
+      },
+      "authoredOn": "2025-02-20"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-2",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 97mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-2"
+      },
+      "authoredOn": "2024-10-26"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-3",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Levothyroxine 20mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-3"
+      },
+      "authoredOn": "2024-05-05"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-4",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 27mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-4"
+      },
+      "authoredOn": "2024-05-15"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-5",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 63mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-5"
+      },
+      "authoredOn": "2025-02-25"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-6",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Amlodipine 78mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-6"
+      },
+      "authoredOn": "2025-01-01"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-7",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Lisinopril 69mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-7"
+      },
+      "authoredOn": "2024-07-24"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-8",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Atorvastatin 100mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-8"
+      },
+      "authoredOn": "2025-04-22"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-9",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Amlodipine 79mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-9"
+      },
+      "authoredOn": "2024-09-05"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-10",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 54mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-10"
+      },
+      "authoredOn": "2024-10-31"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-11",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Lisinopril 74mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-11"
+      },
+      "authoredOn": "2025-04-20"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-12",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Atorvastatin 23mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-12"
+      },
+      "authoredOn": "2024-08-27"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-13",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Amlodipine 16mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-13"
+      },
+      "authoredOn": "2024-09-07"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-14",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 98mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-14"
+      },
+      "authoredOn": "2025-03-21"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-15",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Amlodipine 16mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-15"
+      },
+      "authoredOn": "2025-03-06"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-16",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Levothyroxine 48mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-16"
+      },
+      "authoredOn": "2025-01-08"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-17",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Levothyroxine 27mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-17"
+      },
+      "authoredOn": "2025-04-21"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-18",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Amlodipine 68mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-18"
+      },
+      "authoredOn": "2024-12-15"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-19",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Atorvastatin 33mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-19"
+      },
+      "authoredOn": "2024-06-25"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-20",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 58mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-20"
+      },
+      "authoredOn": "2025-02-01"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-21",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Levothyroxine 33mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-21"
+      },
+      "authoredOn": "2024-08-01"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-22",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 35mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-22"
+      },
+      "authoredOn": "2024-08-06"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-23",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Levothyroxine 99mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-23"
+      },
+      "authoredOn": "2025-01-30"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-24",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 11mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-24"
+      },
+      "authoredOn": "2024-05-10"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-25",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Levothyroxine 100mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-25"
+      },
+      "authoredOn": "2025-01-30"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-26",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 98mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-26"
+      },
+      "authoredOn": "2024-09-28"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-27",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 11mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-27"
+      },
+      "authoredOn": "2024-05-02"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-28",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Levothyroxine 47mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-28"
+      },
+      "authoredOn": "2025-02-21"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-29",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 33mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-29"
+      },
+      "authoredOn": "2024-10-04"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-30",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 15mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-30"
+      },
+      "authoredOn": "2024-12-23"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-31",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Amlodipine 73mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-31"
+      },
+      "authoredOn": "2024-08-25"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-32",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Levothyroxine 15mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-32"
+      },
+      "authoredOn": "2024-12-14"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-33",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 34mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-33"
+      },
+      "authoredOn": "2024-06-09"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-34",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Lisinopril 66mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-34"
+      },
+      "authoredOn": "2024-07-28"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-35",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Atorvastatin 49mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-35"
+      },
+      "authoredOn": "2025-03-03"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-36",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Lisinopril 79mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-36"
+      },
+      "authoredOn": "2024-08-10"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-37",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Lisinopril 57mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-37"
+      },
+      "authoredOn": "2025-02-05"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-38",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Levothyroxine 23mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-38"
+      },
+      "authoredOn": "2025-02-18"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-39",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 69mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-39"
+      },
+      "authoredOn": "2024-11-01"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-40",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Lisinopril 32mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-40"
+      },
+      "authoredOn": "2025-01-09"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-41",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 33mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-41"
+      },
+      "authoredOn": "2025-03-22"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-42",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 41mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-42"
+      },
+      "authoredOn": "2025-04-09"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-43",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Amlodipine 73mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-43"
+      },
+      "authoredOn": "2024-11-24"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-44",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Metformin 35mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-44"
+      },
+      "authoredOn": "2024-06-10"
+    },
+    {
+      "resourceType": "MedicationRequest",
+      "id": "med-45",
+      "status": "active",
+      "medicationCodeableConcept": {
+        "text": "Atorvastatin 23mg"
+      },
+      "subject": {
+        "reference": "Patient/patient-45"
+      },
+      "authoredOn": "2025-02-28"
+    }
+  ],
+  "observations": [
+    {
+      "resourceType": "Observation",
+      "id": "obs-1-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 8.3,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-1"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-1-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 175.3,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-1"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-2-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 6.1,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-2"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-2-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 159.2,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-2"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-3-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 9.0,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-3"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-3-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 224.8,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-3"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-4-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 5.3,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-4"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-4-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 207.6,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-4"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-5-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 5.2,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-5"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-5-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 229.2,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-5"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-6-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 8.4,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-6"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-6-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 158.6,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-6"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-7-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 8.3,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-7"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-7-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 199.1,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-7"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-8-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 7.6,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-8"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-8-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 167.0,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-8"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-9-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 7.3,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-9"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-9-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 194.4,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-9"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-10-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 8.1,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-10"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-10-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 174.8,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-10"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-11-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 7.8,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-11"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-11-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 184.9,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-11"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-12-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 8.9,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-12"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-12-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 233.0,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-12"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-13-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 6.0,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-13"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-13-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 226.1,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-13"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-14-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 5.8,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-14"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-14-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 153.4,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-14"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-15-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 6.1,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-15"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-15-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 224.5,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-15"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-16-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 7.8,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-16"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-16-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 171.9,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-16"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-17-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 5.7,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-17"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-17-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 227.1,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-17"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-18-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 7.4,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-18"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-18-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 249.4,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-18"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-19-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 6.8,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-19"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-19-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 171.2,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-19"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-20-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 7.9,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-20"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-20-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 206.6,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-20"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-21-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 6.3,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-21"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-21-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 167.1,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-21"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-22-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 5.9,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-22"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-22-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 160.7,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-22"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-23-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 8.9,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-23"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-23-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 190.0,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-23"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-24-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 8.3,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-24"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-24-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 150.7,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-24"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-25-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 8.7,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-25"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-25-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 209.8,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-25"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-26-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 9.0,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-26"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-26-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 170.8,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-26"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-27-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 6.9,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-27"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-27-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 232.4,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-27"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-28-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 5.0,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-28"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-28-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 225.3,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-28"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-29-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 5.4,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-29"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-29-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 185.0,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-29"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-30-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 6.2,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-30"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-30-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 241.3,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-30"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-31-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 8.4,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-31"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-31-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 200.2,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-31"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-32-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 6.9,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-32"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-32-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 183.2,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-32"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-33-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 6.9,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-33"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-33-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 195.5,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-33"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-34-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 6.0,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-34"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-34-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 195.4,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-34"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-35-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 8.8,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-35"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-35-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 214.2,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-35"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-36-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 7.9,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-36"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-36-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 187.0,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-36"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-37-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 7.3,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-37"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-37-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 179.5,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-37"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-38-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 6.1,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-38"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-38-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 201.3,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-38"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-39-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 5.9,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-39"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-39-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 191.7,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-39"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-40-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 8.8,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-40"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-40-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 239.2,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-40"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-41-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 8.9,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-41"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-41-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 155.2,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-41"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-42-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 5.3,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-42"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-42-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 209.9,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-42"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-43-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 6.6,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-43"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-43-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 179.0,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-43"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-44-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 5.2,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-44"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-44-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 226.8,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-44"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-45-hemoglobin a1c",
+      "status": "final",
+      "code": {
+        "text": "Hemoglobin A1c"
+      },
+      "valueQuantity": {
+        "value": 8.9,
+        "unit": "%"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-45"
+      }
+    },
+    {
+      "resourceType": "Observation",
+      "id": "obs-45-cholesterol",
+      "status": "final",
+      "code": {
+        "text": "Cholesterol"
+      },
+      "valueQuantity": {
+        "value": 153.2,
+        "unit": "mg/dL"
+      },
+      "effectiveDateTime": "2025-04-24",
+      "subject": {
+        "reference": "Patient/patient-45"
+      }
+    }
+  ],
+  "allergies": [
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-1",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Penicillin"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-1"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-2",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Latex"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Sneezing"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-2"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-3",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Peanuts"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-3"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-4",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Pollen"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Rash"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-4"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-5",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Peanuts"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Sneezing"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-5"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-6",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Peanuts"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Sneezing"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-6"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-7",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Dust"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Sneezing"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-7"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-8",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Peanuts"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Sneezing"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-8"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-9",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Penicillin"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-9"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-10",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Penicillin"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-10"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-11",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Pollen"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-11"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-12",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Dust"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-12"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-13",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Peanuts"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-13"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-14",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Dust"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Rash"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-14"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-15",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Peanuts"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Sneezing"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-15"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-16",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Penicillin"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-16"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-17",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Penicillin"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-17"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-18",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Pollen"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Sneezing"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-18"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-19",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Dust"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-19"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-20",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Penicillin"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Sneezing"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-20"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-21",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Dust"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Rash"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-21"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-22",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Pollen"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Sneezing"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-22"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-23",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Penicillin"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Rash"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-23"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-24",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Latex"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-24"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-25",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Penicillin"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Rash"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-25"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-26",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Dust"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-26"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-27",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Peanuts"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Rash"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-27"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-28",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Penicillin"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-28"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-29",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Peanuts"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Sneezing"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-29"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-30",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Pollen"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-30"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-31",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Pollen"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-31"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-32",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Pollen"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-32"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-33",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Pollen"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-33"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-34",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Pollen"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-34"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-35",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Dust"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-35"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-36",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Pollen"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Sneezing"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-36"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-37",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Dust"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Sneezing"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-37"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-38",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Pollen"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-38"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-39",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Penicillin"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-39"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-40",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Dust"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-40"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-41",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Peanuts"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Rash"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-41"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-42",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Pollen"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-42"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-43",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Dust"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Rash"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-43"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-44",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Latex"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-44"
+      }
+    },
+    {
+      "resourceType": "AllergyIntolerance",
+      "id": "allergy-45",
+      "clinicalStatus": {
+        "text": "active"
+      },
+      "code": {
+        "text": "Pollen"
+      },
+      "reaction": [
+        {
+          "manifestation": [
+            {
+              "text": "Swelling"
+            }
+          ]
+        }
+      ],
+      "patient": {
+        "reference": "Patient/patient-45"
+      }
+    }
+  ],
+  "encounters": [
+    {
+      "resourceType": "Encounter",
+      "id": "enc-1",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:50:44",
+        "end": "2025-04-26 17:03:16"
+      },
+      "subject": {
+        "reference": "Patient/patient-1"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-2",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:50:26",
+        "end": "2025-04-26 20:30:20"
+      },
+      "subject": {
+        "reference": "Patient/patient-2"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-3",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:47:59",
+        "end": "2025-04-26 15:12:59"
+      },
+      "subject": {
+        "reference": "Patient/patient-3"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-4",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:46:55",
+        "end": "2025-04-26 10:40:34"
+      },
+      "subject": {
+        "reference": "Patient/patient-4"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-5",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:47:32",
+        "end": "2025-04-26 09:29:24"
+      },
+      "subject": {
+        "reference": "Patient/patient-5"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-6",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:50:12",
+        "end": "2025-04-26 10:57:22"
+      },
+      "subject": {
+        "reference": "Patient/patient-6"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-7",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:50:58",
+        "end": "2025-04-25 22:03:05"
+      },
+      "subject": {
+        "reference": "Patient/patient-7"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-8",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:51:52",
+        "end": "2025-04-26 04:22:54"
+      },
+      "subject": {
+        "reference": "Patient/patient-8"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-9",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:51:48",
+        "end": "2025-04-26 17:33:02"
+      },
+      "subject": {
+        "reference": "Patient/patient-9"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-10",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:48:31",
+        "end": "2025-04-26 07:11:29"
+      },
+      "subject": {
+        "reference": "Patient/patient-10"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-11",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:51:39",
+        "end": "2025-04-26 07:15:54"
+      },
+      "subject": {
+        "reference": "Patient/patient-11"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-12",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:51:00",
+        "end": "2025-04-26 12:35:18"
+      },
+      "subject": {
+        "reference": "Patient/patient-12"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-13",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:50:38",
+        "end": "2025-04-26 13:40:38"
+      },
+      "subject": {
+        "reference": "Patient/patient-13"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-14",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:49:52",
+        "end": "2025-04-26 05:15:57"
+      },
+      "subject": {
+        "reference": "Patient/patient-14"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-15",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:51:52",
+        "end": "2025-04-26 20:46:18"
+      },
+      "subject": {
+        "reference": "Patient/patient-15"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-16",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:47:29",
+        "end": "2025-04-26 17:21:20"
+      },
+      "subject": {
+        "reference": "Patient/patient-16"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-17",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:48:51",
+        "end": "2025-04-26 11:07:42"
+      },
+      "subject": {
+        "reference": "Patient/patient-17"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-18",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:49:46",
+        "end": "2025-04-26 12:46:29"
+      },
+      "subject": {
+        "reference": "Patient/patient-18"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-19",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:46:22",
+        "end": "2025-04-26 13:21:09"
+      },
+      "subject": {
+        "reference": "Patient/patient-19"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-20",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:49:47",
+        "end": "2025-04-26 03:33:55"
+      },
+      "subject": {
+        "reference": "Patient/patient-20"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-21",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:45:56",
+        "end": "2025-04-26 10:21:08"
+      },
+      "subject": {
+        "reference": "Patient/patient-21"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-22",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:50:50",
+        "end": "2025-04-26 02:31:45"
+      },
+      "subject": {
+        "reference": "Patient/patient-22"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-23",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:47:26",
+        "end": "2025-04-26 07:58:51"
+      },
+      "subject": {
+        "reference": "Patient/patient-23"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-24",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:50:14",
+        "end": "2025-04-26 11:30:10"
+      },
+      "subject": {
+        "reference": "Patient/patient-24"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-25",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:46:09",
+        "end": "2025-04-26 17:08:44"
+      },
+      "subject": {
+        "reference": "Patient/patient-25"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-26",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:50:57",
+        "end": "2025-04-25 22:41:29"
+      },
+      "subject": {
+        "reference": "Patient/patient-26"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-27",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:47:44",
+        "end": "2025-04-26 03:27:40"
+      },
+      "subject": {
+        "reference": "Patient/patient-27"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-28",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:48:15",
+        "end": "2025-04-26 19:36:22"
+      },
+      "subject": {
+        "reference": "Patient/patient-28"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-29",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:47:18",
+        "end": "2025-04-26 08:04:19"
+      },
+      "subject": {
+        "reference": "Patient/patient-29"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-30",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:48:33",
+        "end": "2025-04-26 02:10:27"
+      },
+      "subject": {
+        "reference": "Patient/patient-30"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-31",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:47:38",
+        "end": "2025-04-26 02:53:50"
+      },
+      "subject": {
+        "reference": "Patient/patient-31"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-32",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:51:45",
+        "end": "2025-04-26 21:15:07"
+      },
+      "subject": {
+        "reference": "Patient/patient-32"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-33",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:45:58",
+        "end": "2025-04-26 12:28:55"
+      },
+      "subject": {
+        "reference": "Patient/patient-33"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-34",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:50:10",
+        "end": "2025-04-26 16:25:59"
+      },
+      "subject": {
+        "reference": "Patient/patient-34"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-35",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:49:22",
+        "end": "2025-04-26 08:01:16"
+      },
+      "subject": {
+        "reference": "Patient/patient-35"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-36",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:49:06",
+        "end": "2025-04-25 22:58:29"
+      },
+      "subject": {
+        "reference": "Patient/patient-36"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-37",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:51:06",
+        "end": "2025-04-26 05:49:00"
+      },
+      "subject": {
+        "reference": "Patient/patient-37"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-38",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:51:48",
+        "end": "2025-04-26 18:50:05"
+      },
+      "subject": {
+        "reference": "Patient/patient-38"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-39",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:50:26",
+        "end": "2025-04-26 09:38:00"
+      },
+      "subject": {
+        "reference": "Patient/patient-39"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-40",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:46:54",
+        "end": "2025-04-25 22:41:41"
+      },
+      "subject": {
+        "reference": "Patient/patient-40"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-41",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:46:48",
+        "end": "2025-04-26 04:23:59"
+      },
+      "subject": {
+        "reference": "Patient/patient-41"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-42",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:51:49",
+        "end": "2025-04-26 17:07:56"
+      },
+      "subject": {
+        "reference": "Patient/patient-42"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-43",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:47:53",
+        "end": "2025-04-26 18:12:14"
+      },
+      "subject": {
+        "reference": "Patient/patient-43"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-44",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:49:28",
+        "end": "2025-04-26 13:35:03"
+      },
+      "subject": {
+        "reference": "Patient/patient-44"
+      }
+    },
+    {
+      "resourceType": "Encounter",
+      "id": "enc-45",
+      "status": "finished",
+      "class": {
+        "code": "outpatient"
+      },
+      "type": [
+        {
+          "text": "General Check-up"
+        }
+      ],
+      "period": {
+        "start": "2025-04-25 21:46:44",
+        "end": "2025-04-26 08:22:12"
+      },
+      "subject": {
+        "reference": "Patient/patient-45"
+      }
+    }
+  ]
+}

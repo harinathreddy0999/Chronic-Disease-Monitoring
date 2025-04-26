@@ -1,0 +1,30 @@
+patient_id,full_name,gender,age,risk_category,risk_score,risk_reasons,hba1c_value,cholesterol_value
+patient-18,Matthew Blair,male,42,High Risk,2,Diabetes Risk (HbA1c >= 6.5); Cardiovascular Risk (Cholesterol >= 240),7.4,249.4
+patient-1,Michelle Harris,female,73,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),8.3,175.3
+patient-25,Matthew Mejia,male,30,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),8.7,209.8
+patient-43,Danielle Choi,male,62,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),6.6,179.0
+patient-41,Cindy Campbell,female,27,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),8.9,155.2
+patient-40,Kimberly Peterson,female,37,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),8.8,239.2
+patient-37,Adrian Randall,male,26,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),7.3,179.5
+patient-36,Michael Bowman,female,30,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),7.9,187.0
+patient-35,Nicholas Dunlap,female,40,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),8.8,214.2
+patient-33,Kristy Reid,female,85,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),6.9,195.5
+patient-32,Victoria Powell,female,37,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),6.9,183.2
+patient-31,Jerry Mcpherson,male,65,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),8.4,200.2
+patient-30,Michael Lopez,female,41,Moderate Risk,1,Cardiovascular Risk (Cholesterol >= 240),6.2,241.3
+patient-27,George Jennings,male,83,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),6.9,232.4
+patient-26,Brandon Johnson,female,34,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),9.0,170.8
+patient-24,Karen Johnson,female,66,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),8.3,150.7
+patient-3,Curtis Christensen,male,21,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),9.0,224.8
+patient-23,Theresa Becker,female,34,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),8.9,190.0
+patient-20,Antonio Williams,female,40,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),7.9,206.6
+patient-19,Martin Hoffman,female,46,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),6.8,171.2
+patient-16,Leah Brooks,male,39,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),7.8,171.9
+patient-12,Hailey Leon,male,60,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),8.9,233.0
+patient-11,Timothy Lewis,female,89,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),7.8,184.9
+patient-10,Jaime Burnett,male,71,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),8.1,174.8
+patient-9,Kristy Hood,female,75,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),7.3,194.4
+patient-8,Barbara Atkinson,female,42,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),7.6,167.0
+patient-7,Heather Chang,male,28,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),8.3,199.1
+patient-6,John Moore,male,83,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),8.4,158.6
+patient-45,David Macdonald,male,19,Moderate Risk,1,Diabetes Risk (HbA1c >= 6.5),8.9,153.2
